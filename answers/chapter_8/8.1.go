@@ -1,7 +1,7 @@
 /*
 创建一个 map 来保存每周 7 天的名字，将它们打印出来并且测试是否存在 Tuesday 和 Hollyday
 */
-package main
+package chapter_8
 
 func main() {
 	week := map[string]string{
